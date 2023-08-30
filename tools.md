@@ -1,5 +1,4 @@
 # Info gathering
-
 Nmap
 Recon ng
 SHODAN
