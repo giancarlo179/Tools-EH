@@ -1,4 +1,4 @@
-#Info gathering
+# Info gathering
 
 Nmap
 Recon ng
